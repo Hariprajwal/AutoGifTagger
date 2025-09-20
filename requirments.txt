@@ -1,0 +1,5 @@
+## locate the area of the screen using aytgoui using the locate code once location is knowon intize it 
+time
+pyautogui
+pyperclip
+ time
